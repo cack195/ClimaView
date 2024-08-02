@@ -4,5 +4,4 @@ A simple React-based weather application that allows users to get weather inform
 ## Features
 * Fetch weather data using OpenWeatherMap APIs
 * Input city and country to get weather details
-* Gradient background with blur effect
-* Interactive hover animation
+* Interactive UI
